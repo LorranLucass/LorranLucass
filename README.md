@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lorran Lucas
+# Lorran Lucas
 
 **`Desenvolvedor FullStack`**
 
